@@ -549,6 +549,7 @@ function seedState(){
 }
 
 var state = load();
+save(); /* simpan state awal supaya data demo langsung persisten sejak dibuka */
 function load(){
   try{
     var raw = localStorage.getItem(LS_KEY);
