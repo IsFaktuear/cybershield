@@ -27,7 +27,7 @@ mysql -u root -p < database.sql
 
 ## Tema
 
-Tampilan memakai tema kertas perkamen dengan ornamen emas ala halaman event Genshin Impact, di atas latar gelap.
+Tampilan minimalis: gelap, datar, satu warna aksen teal, tanpa ornamen.
 
 ## Demo
 
